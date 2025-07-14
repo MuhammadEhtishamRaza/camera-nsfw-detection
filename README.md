@@ -8,6 +8,6 @@ Present in Public/Model folder.
 
 - Tensorflowjs
 
-## Model Execution File
+## Model Execution File:
 
 - CameraStream.jsx
