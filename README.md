@@ -8,6 +8,10 @@ Present in Public/Model folder.
 
 - Tensorflowjs
 
+  ```
+  npm install @tensorflow/tfjs
+  ```
+
 ## Model Execution File:
 
 - CameraStream.jsx
