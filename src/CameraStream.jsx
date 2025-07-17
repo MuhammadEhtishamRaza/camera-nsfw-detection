@@ -12,7 +12,7 @@ const CameraStreamWithDetection = () => {
     useEffect(() => {
         const loadModel = async () => {
             try {
-                const model = await tf.loadGraphModel("/model/model.json");
+                const model = await tf.loadGraphModel("/model2/model.json");
                 setCustomModel(model);
                 console.log("Model loaded successfully");
                 // After loading the model, inspect its inputs
