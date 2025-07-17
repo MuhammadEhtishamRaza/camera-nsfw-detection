@@ -1,17 +1,17 @@
 # NSFW Detection
 
-## Model Files:
+## Model Files
 
-Present in Public/Model folder.
+Present in Public Folder.
 
-## Package for model:
+## Package for model
 
 - Tensorflowjs
 
-  ```
+  ```Javascript
   npm install @tensorflow/tfjs
   ```
 
-## Model Execution File:
+## Model Execution File
 
 - CameraStream.jsx
